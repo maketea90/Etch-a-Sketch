@@ -1,0 +1,21 @@
+.grid-element {
+    padding: 0.5%;
+    margin: 0.1%;
+    border: 0.1%;
+    border-style: solid;
+    border-color: green;
+    width: 4.5%;
+    height: 100px;
+}
+
+.grid-container {
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-shrink: 1; */
+
+
+}
+
+.hover-effect {
+    background-color: aqua;
+}
